@@ -1,0 +1,54 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* يمنع scroll */
+ 
+}
+body {
+
+  background-color: #0052d0!important; 
+}
+.MuiDivider-root {
+  border-color: white !important;
+}
+
+
+#root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;  
+}
+/* html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; 
+} */
+/* CUSTOM FONTS */
+@font-face {
+  font-family: 'POP';
+  src: url("/Fonts/Poppins-Regular.ttf");
+  font-weight: 400; /* Regular */
+}
+
+@font-face {
+  font-family: 'POP';
+  src: url("/Fonts/Poppins-Medium.ttf");
+  font-weight: 500; /* Medium */
+}
+
+@font-face {
+  font-family: 'POP';
+  src: url("/Fonts/Poppins-SemiBold.ttf");
+  font-weight: 600; /* SemiBold */
+}
+
+@font-face {
+  font-family: 'POP';
+  src: url("/Fonts/Poppins-Bold.ttf");
+  font-weight: 700; /* Bold */
+}
