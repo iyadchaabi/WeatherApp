@@ -1,7 +1,8 @@
+
 # 🌦️ Weather App (React + Vite)
 
-A modern and responsive weather application built using **React**, **Vite**, **Material UI**.  
-The app allows users to check real-time weather information such as temperature, humidity, and weather conditions.  
+A modern and responsive weather application built using **React**, **Vite**, and **Material UI**.  
+The app allows users to check real-time weather information such as temperature, humidity, and weather conditions.
 
 ---
 
@@ -10,27 +11,23 @@ The app allows users to check real-time weather information such as temperature,
 - 🕒 Uses **Moment** for nicely formatted date & time  
 - 🎨 Clean UI built using **MUI (Material UI)**  
 - ⚡ Fast API requests with **Axios**  
-- 📱 Fully responsive   
+- 📱 Fully responsive  
 
 ---
 
 ## 🛠 Tech Stack
-- **React**
-- **Vite**
-- **JavaScript (ES6+)**
-- **Material UI (MUI)**
-- **Axios**
-- **Moment**
-- **CSS**
+- React  
+- Vite  
+- JavaScript (ES6+)  
+- Material UI (MUI)  
+- Axios  
+- Moment  
+- CSS  
 
 ---
 
 ## 📦 Installation & Setup
 
-Clone the project:
-
+### Clone the project:
 ```bash
-git clone https://github.com/yourusername/weather-app.git
-cd w-app
-npm install
-npm run dev
+git clone https://github.com/iyadchaabi/weather-app.git
