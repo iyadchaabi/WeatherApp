@@ -25,9 +25,10 @@ The app allows users to check real-time weather information such as temperature,
 - CSS  
 
 ---
+## 🔗 Live Demo
+https://warm-crostata-a96721.netlify.app/
 
-## 📦 Installation & Setup
 
-### Clone the project:
+
 ```bash
 git clone https://github.com/iyadchaabi/weather-app.git
